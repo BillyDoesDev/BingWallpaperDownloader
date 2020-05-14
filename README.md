@@ -30,7 +30,7 @@ Once the folder opens, paste BingBG_Downloader_HIDDEN.vbs and now you should be 
 
 ENJOY!!
 
-If you copy or distribute any part of this project, then be sure to give @DarkKnight450 (me) credits
+If you copy or distribute any part of this project, then be sure to give **@DarkKnight450** (me) credits
 and show some love...
 
 ===================================================================================
