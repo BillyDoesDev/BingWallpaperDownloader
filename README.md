@@ -39,6 +39,7 @@ ENJOY!!
 
 If you copy or distribute any part of this project, then be sure to give **@DarkKnight450** (me) credits
 and show some love...
+I am still working on the Linux version of this program, so until then bare with me😊
 
 ===================================================================================
 
