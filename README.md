@@ -23,7 +23,7 @@ Once you clone or extract this to the required directory, simply run the BingBG_
 download today's Bing wallpaper. By default, it will be saved in your Pictures folder. If you do not want
 to see the terminal window, you can run the BingBG_Downloader_HIDDEN.vbs file, and that's it!!
 
-***NOTE:*** **If Windows shows a Security Prompt, click on** [More info] **and run it. Trust me guys, this is not a malware...
+***NOTE:*** **If Windows shows a Security Prompt, click on _More info_ and run it. Trust me guys, this is not a malware...
 If you are still unsure though, you may upload the file to https://www.virustotal.com/gui/home and see for yourself...**
 
 ###### (Optional)
