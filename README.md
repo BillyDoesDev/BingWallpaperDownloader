@@ -7,6 +7,7 @@ A little Java program to automatically download those beautiful Bing wallpapers 
 ─║║║║╔╗║╔╣╚╝╣╔╗║║╔╗╬╣╔╗║╔╗║║╚══╗╠══╗║║║║║ 
 ╔╝╚╝║╔╗║║║╔╗╣║║╚╣║║║║╚╝║║║║╚╗──║╠══╝║╚═╝║ 
 ╚═══╩╝╚╩╝╚╝╚╩╝╚═╩╝╚╩╩═╗╠╝╚╩═╝──╚╩═══╩═══╝
+
 ────────────────────╚══╝
 
 If you want to edit the source code, take note that it is the BrowserTest.java file...
