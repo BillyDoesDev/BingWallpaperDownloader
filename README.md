@@ -7,7 +7,7 @@ A little Java program to automatically download those beautiful Bing wallpapers 
 ╰━━┻━━┻╯╰┻┻┻┻┻━┻╋╮┣┻┻━┻━━╮┣━━╮┃┃┃┃┃
 ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━╯╱╱╱╱╱╱┃┣━━╯┃╰━╯┃
 
-## Only prerequisites:
+## Prerequisites:
 **Your computer must have Java and the latest version of Google Chrome installed**
 
 ===================================================================================
