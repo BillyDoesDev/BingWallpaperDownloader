@@ -19,7 +19,7 @@ to see the terminal window, you can run the BingBG_Downloader_HIDDEN.vbs file, a
 ###### (Optional)
 You can create a shortcut of the BingBG_Downloader_HIDDEN.vbs file and then copy it and paste it in
 your startup folder to run this program at startup and thus download Bing wallpapers daily...
-In order to access your startup folder, simply press Windows Key + R on your keyboard to get the Run
+In order to access your startup folder, simply press ***Windows Key + R*** on your keyboard to get the Run
 Dialog box and there, type:
 ```
 shell:startup
