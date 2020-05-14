@@ -1,12 +1,11 @@
 # BingWallpaperDownloader
 A little Java program to automatically download those beautiful Bing wallpapers to your computer ;)
-╔═══╗────╔╗─╔╗╔═╗──────╔╗─╔╗╔╗─╔╦═══╦═══╗ 
-╚╗╔╗║────║║─║║║╔╝──────║║╔╝╚╣║─║║╔══╣╔═╗║ 
-─║║║╠══╦═╣║╔╣╚╝╝╔═╗╔╦══╣╚╩╗╔╣╚═╝║╚══╣║║║║ 
-─║║║║╔╗║╔╣╚╝╣╔╗║║╔╗╬╣╔╗║╔╗║║╚══╗╠══╗║║║║║ 
-╔╝╚╝║╔╗║║║╔╗╣║║╚╣║║║║╚╝║║║║╚╗──║╠══╝║╚═╝║ 
-╚═══╩╝╚╩╝╚╝╚╩╝╚═╩╝╚╩╩═╗╠╝╚╩═╝──╚╩═══╩═══╝ 
-                    ╚══╝
+
+╭━━╮╱╱╱╱╭╮╭┳╮╱╱╭╮╱╭╮╭╮╭╮╱╭┳━━━┳━━━╮
+╰╮╮┣━╮╭┳┫┣┫╭╋━┳╋╋━┫╰┫╰┫┃╱┃┃╭━━┫╭━╮┃
+╭┻╯┃╋╰┫╭┫━┫╰┫┃┃┃┃╋┃┃┃╭┫╰━╯┃╰━━┫┃┃┃┃
+╰━━┻━━┻╯╰┻┻┻┻┻━┻╋╮┣┻┻━┻━━╮┣━━╮┃┃┃┃┃
+╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━╯╱╱╱╱╱╱┃┣━━╯┃╰━╯┃
 
 If you want to edit the source code, take note that it is the BrowserTest.java file...
 The .jar files are simply the dependencies that BrowserTest.java needs in order to execute...
