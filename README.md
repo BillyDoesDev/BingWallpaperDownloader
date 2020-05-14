@@ -44,5 +44,7 @@ If you copy or distribute any part of this project, then be sure to give **@Dark
 and show some love...
 I am still working on the Linux version of this program, so until then bare with me😊
 
+If you have any suggestions or thoughts, feel free to comment or email me at (iamdhruba1324@gmail.com)
+
 ===================================================================================
 
