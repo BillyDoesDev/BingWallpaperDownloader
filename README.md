@@ -11,8 +11,10 @@ A little Java program to automatically download those beautiful Bing wallpapers 
 **Your computer must have Java and the latest version of Google Chrome installed**
 
 ===================================================================================
+
 If you want to edit the source code, take note that it is the BrowserTest.java file...
 The .jar files are simply the dependencies that BrowserTest.java needs in order to execute...
+
 ===================================================================================
 
 ## For Windows...
