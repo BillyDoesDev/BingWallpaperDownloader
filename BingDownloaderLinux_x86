@@ -7,7 +7,7 @@ if [[ -z $checkDir ]]; then
 	mkdir /home/$USER/.BingWallpaper/ 
 fi
 cp BingDownloaderLinux_x86 /home/$USER/.BingWallpaper/ #Keep me updated
-checkCronEntry=`crontab -l | grep "00 00 \* \* \* bash /home/darkguy10/.BingWallpaper/"`
+checkCronEntry=`crontab -l | grep "00 00 \* \* \* bash /home/$USER/.BingWallpaper/"`
 if [[ -z $checkCronEntry ]]; then
 	echo "scheduling myself"
 	(crontab -l ; echo "00 00 * * * bash /home/$USER/.BingWallpaper/BingDownloaderLinux_x86") | crontab
