@@ -30,15 +30,23 @@ shell:startup
 ```
 Once the folder opens, paste BingBG_Downloader_HIDDEN.vbs and now you should be good to go.
 
+## For Linux...
+Only supporing gnome distros right now
+Once you clone or extract this to the required directory, open a terminal there and run:
+```
+bash BingDownloaderLinux_86
+```
 ===================================================================================
 
 **ENJOY!!**
 
-If you copy or distribute any part of this project, then be sure to give **@DarkKnight450** (me) credits
-and show some love...
-I am still working on the Linux version of this program, so until then bare with me😊
+If you copy or distribute any part of this project, then be sure to give **@DarkKnight450** and **@DarkGuy10** (us) credits and show some love...
+Linux version is out, only for gnome users... Will expand
 
-If you have any suggestions or thoughts, feel free to comment or email me at iamdhruba1324@gmail.com.
+Windows version coded by **@DarkKnight450**
+Linux version coded by **@DarkGuy10**
+
+If you have any suggestions or thoughts, feel free to comment or email me at iamdhruba1324@gmail.com. or darkguy10@protonmail.com
 
 I am really new to all this stuff... In fact, this is my first _proper repo_... So I would feel great to hear from you.
 
