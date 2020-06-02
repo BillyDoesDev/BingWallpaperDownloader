@@ -1,14 +1,9 @@
 # BingWallpaperDownloader
 A little Java program to automatically download those beautiful Bing wallpapers to your computer ;)
 
-┏━━━┓╋╋╋╋┏┓╋┏┓┏━┓╋╋╋╋╋╋┏┓╋┏┓┏┓╋┏┳━━━┳━━━┓
-┗┓┏┓┃╋╋╋╋┃┃╋┃┃┃┏┛╋╋╋╋╋╋┃┃┏┛┗┫┃╋┃┃┏━━┫┏━┓┃
-╋┃┃┃┣━━┳━┫┃┏┫┗┛┛┏━┓┏┳━━┫┗┻┓┏┫┗━┛┃┗━━┫┃┃┃┃
-╋┃┃┃┃┏┓┃┏┫┗┛┫┏┓┃┃┏┓╋┫┏┓┃┏┓┃┃┗━━┓┣━━┓┃┃┃┃┃
-┏┛┗┛┃┏┓┃┃┃┏┓┫┃┃┗┫┃┃┃┃┗┛┃┃┃┃┗┓╋╋┃┣━━┛┃┗━┛┃
-┗━━━┻┛┗┻┛┗┛┗┻┛┗━┻┛┗┻┻━┓┣┛┗┻━┛╋╋┗┻━━━┻━━━┛
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┏━┛┃
-╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┗━━┛
+██████████████████████████
+ ██▄▀▄▀█████  ██▄▀▄▀█████
+  ▀██▄█▄██▀    ▀██▄█▄██▀
 
 ## Prerequisites:
 **Your computer must have Java and the latest version of Google Chrome installed**
