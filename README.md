@@ -7,7 +7,7 @@ A little Java program to automatically download those beautiful Bing wallpapers 
 ╰━━┻━━┻╯╰┻┻┻┻┻━┻╋╮┣┻┻━┻━━╮┣━━╮┃┃┃┃┃
 ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━╯╱╱╱╱╱╱┃┣━━╯┃╰━╯┃
 
-##@DarkGuy10 Man I want an Ascii Art...
+## @DarkGuy10 Man I want an Ascii Art...
 
 ## Prerequisites:
 **Your computer must have Java and the latest version of Google Chrome installed**
