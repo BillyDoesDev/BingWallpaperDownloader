@@ -7,12 +7,19 @@ A little Java program to automatically download those beautiful Bing wallpapers 
 ╰━━┻━━┻╯╰┻┻┻┻┻━┻╋╮┣┻┻━┻━━╮┣━━╮┃┃┃┃┃
 ╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╱╰━╯╱╱╱╱╱╱┃┣━━╯┃╰━╯┃
 
-
-█▀▄ ▄▀█ █▀█ █▄▀ █▀▀ █░█ █▄█ ▄█ █▀█
-█▄▀ █▀█ █▀▄ █░█ █▄█ █▄█ ░█░ ░█ █▄█
+█▀▄ ▄▀█ █▀█ █▄▀ █▀▀ █░█ █▄█ ▄█ █▀█<br>
+█▄▀ █▀█ █▀▄ █░█ █▄█ █▄█ ░█░ ░█ █▄█<br>
 
 ## Prerequisites:
-**Your computer must have Java and the latest version of Google Chrome installed**
+**Windows: Your computer must have Java and the latest version of Google Chrome installed**
+**Linux: Currently onlu GNOME is supported. Your computer must have the following packages installed:**
+```
+  wget
+  grep
+  cut
+  html-xml-utils
+  cron
+```
 
 ===================================================================================
 
@@ -46,6 +53,7 @@ Once you clone or extract this to the required directory, open a terminal there 
 ```
 bash BingDownloaderLinux_86
 ```
+**NOTE: The cron part is still in beta, it is experimental, and may not work. It will be patched in future releases.**
 ===================================================================================
 
 **ENJOY!!**
