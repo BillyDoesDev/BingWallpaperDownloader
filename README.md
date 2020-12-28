@@ -46,7 +46,7 @@ If you copy or distribute any part of this project, then be sure to give **@Dark
 Windows version coded by **@DarkKnight450**
 Linux version coded by **@DarkGuy10**
 
-If you have any suggestions or thoughts, feel free to comment or email us at iamdhruba1324@gmail.com. or darkguy10@protonmail.com
+If you have any suggestions or thoughts, feel free to comment or email us at DarkKnight450@protonmail.com or darkguy10@protonmail.com
 
 I am really new to all this stuff... In fact, this is my first _proper repo_... So I would feel great to hear from you.
 
