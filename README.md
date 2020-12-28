@@ -1,13 +1,14 @@
 # BingWallpaperDownloader
 A little Java program to automatically download those beautiful Bing wallpapers to your computer ;)
 
- _____     ______     ______     __  __     __  __     __  __     __   __     __     ______     __  __     ______  <br>
-/\  __-.  /\  __ \   /\  == \   /\ \/ /    /\ \/ /    /\ \/ /    /\ "-.\ \   /\ \   /\  ___\   /\ \_\ \   /\__  _\ <br>
-\ \ \/\ \ \ \  __ \  \ \  __<   \ \  _"-.  \ \  _"-.  \ \  _"-.  \ \ \-.  \  \ \ \  \ \ \__ \  \ \  __ \  \/_/\ \/ <br>
- \ \____-  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\\"\_\  \ \_\  \ \_____\  \ \_\ \_\    \ \_\ <br>
-  \/____/   \/_/\/_/   \/_/ /_/   \/_/\/_/   \/_/\/_/   \/_/\/_/   \/_/ \/_/   \/_/   \/_____/   \/_/\/_/     \/_/ <br>
-                                                                                                                   <br>
-                                                                                                                   <br>
+```
+ _____     ______     ______     __  __     __  __     __  __     __   __     __     ______     __  __     ______  
+/\  __-.  /\  __ \   /\  == \   /\ \/ /    /\ \/ /    /\ \/ /    /\ "-.\ \   /\ \   /\  ___\   /\ \_\ \   /\__  _\ 
+\ \ \/\ \ \ \  __ \  \ \  __<   \ \  _"-.  \ \  _"-.  \ \  _"-.  \ \ \-.  \  \ \ \  \ \ \__ \  \ \  __ \  \/_/\ \/ 
+ \ \____-  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\\"\_\  \ \_\  \ \_____\  \ \_\ \_\    \ \_\ 
+  \/____/   \/_/\/_/   \/_/ /_/   \/_/\/_/   \/_/\/_/   \/_/\/_/   \/_/ \/_/   \/_/   \/_____/   \/_/\/_/     \/_/ 
+                                                                                                                   
+```
 
 █▀▄ ▄▀█ █▀█ █▄▀ █▀▀ █░█ █▄█ ▄█ █▀█<br>
 █▄▀ █▀█ █▀▄ █░█ █▄█ █▄█ ░█░ ░█ █▄█<br>
@@ -67,8 +68,6 @@ Windows version coded by **@DarkKnight450**
 Linux version coded by **@DarkGuy10**
 
 If you have any suggestions or thoughts, feel free to comment or email us at DarkKnight450@protonmail.com or darkguy10@protonmail.com
-
-I am really new to all this stuff... In fact, this is my first _proper repo_... So I would feel great to hear from you.
 
 Thanks ;D
 
