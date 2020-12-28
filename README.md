@@ -14,6 +14,8 @@ A little Java program to automatically download those beautiful Bing wallpapers 
 
 ## Prerequisites:
 **Windows: Your computer must have Java and the latest version of Google Chrome installed**
+
+
 **Linux: Currently onlu GNOME is supported. Your computer must have the following packages installed:**
 ```
   wget
@@ -38,7 +40,7 @@ to see the terminal window, you can run the BingBG_Downloader_HIDDEN.vbs file, a
 ***NOTE:*** **If Windows shows a Security Prompt, click on _More info_ and run it. Trust me guys, this is not a malware...
 If you are still unsure though, you may upload the file(s) to https://www.virustotal.com/gui/home and see for yourself...**
 
-###### (Optional)
+## (Optional)
 You can create a shortcut of the BingBG_Downloader_HIDDEN.vbs file and then copy it and paste it in
 your startup folder to run this program at startup and thus download Bing wallpapers daily...
 In order to access your startup folder, simply press ***Windows Key + R*** on your keyboard to get the Run
