@@ -2,12 +2,16 @@
 A little Java program to automatically download those beautiful Bing wallpapers to your computer ;)
 
 ```
- _____     ______     ______     __  __     __  __     __  __     __   __     __     ______     __  __     ______  
-/\  __-.  /\  __ \   /\  == \   /\ \/ /    /\ \/ /    /\ \/ /    /\ "-.\ \   /\ \   /\  ___\   /\ \_\ \   /\__  _\ 
-\ \ \/\ \ \ \  __ \  \ \  __<   \ \  _"-.  \ \  _"-.  \ \  _"-.  \ \ \-.  \  \ \ \  \ \ \__ \  \ \  __ \  \/_/\ \/ 
- \ \____-  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\ \_\  \ \_\\"\_\  \ \_\  \ \_____\  \ \_\ \_\    \ \_\ 
-  \/____/   \/_/\/_/   \/_/ /_/   \/_/\/_/   \/_/\/_/   \/_/\/_/   \/_/ \/_/   \/_/   \/_____/   \/_/\/_/     \/_/ 
-                                                                                                                   
+▓█████▄  ▄▄▄       ██▀███   ██ ▄█▀ ██ ▄█▀ ██ ▄█▀ ███▄    █  ██▓  ▄████  ██░ ██ ▄▄▄█████▓
+▒██▀ ██▌▒████▄    ▓██ ▒ ██▒ ██▄█▒  ██▄█▒  ██▄█▒  ██ ▀█   █ ▓██▒ ██▒ ▀█▒▓██░ ██▒▓  ██▒ ▓▒
+░██   █▌▒██  ▀█▄  ▓██ ░▄█ ▒▓███▄░ ▓███▄░ ▓███▄░ ▓██  ▀█ ██▒▒██▒▒██░▄▄▄░▒██▀▀██░▒ ▓██░ ▒░
+░▓█▄   ▌░██▄▄▄▄██ ▒██▀▀█▄  ▓██ █▄ ▓██ █▄ ▓██ █▄ ▓██▒  ▐▌██▒░██░░▓█  ██▓░▓█ ░██ ░ ▓██▓ ░ 
+░▒████▓  ▓█   ▓██▒░██▓ ▒██▒▒██▒ █▄▒██▒ █▄▒██▒ █▄▒██░   ▓██░░██░░▒▓███▀▒░▓█▒░██▓  ▒██▒ ░ 
+ ▒▒▓  ▒  ▒▒   ▓▒█░░ ▒▓ ░▒▓░▒ ▒▒ ▓▒▒ ▒▒ ▓▒▒ ▒▒ ▓▒░ ▒░   ▒ ▒ ░▓   ░▒   ▒  ▒ ░░▒░▒  ▒ ░░   
+ ░ ▒  ▒   ▒   ▒▒ ░  ░▒ ░ ▒░░ ░▒ ▒░░ ░▒ ▒░░ ░▒ ▒░░ ░░   ░ ▒░ ▒ ░  ░   ░  ▒ ░▒░ ░    ░    
+ ░ ░  ░   ░   ▒     ░░   ░ ░ ░░ ░ ░ ░░ ░ ░ ░░ ░    ░   ░ ░  ▒ ░░ ░   ░  ░  ░░ ░  ░      
+   ░          ░  ░   ░     ░  ░   ░  ░   ░  ░            ░  ░        ░  ░  ░  ░         
+ ░                                                                                                                                                                                                    
 ```
 
 █▀▄ ▄▀█ █▀█ █▄▀ █▀▀ █░█ █▄█ ▄█ █▀█<br>
@@ -24,12 +28,11 @@ A little Java program to automatically download those beautiful Bing wallpapers 
   cron
 ```
 
-===================================================================================
+
 
 If you want to edit the source code, take note that it is the BrowserTest.java file...
 The .jar files are simply the dependencies that BrowserTest.java needs in order to execute...
 
-===================================================================================
 
 ## For Windows...
 
@@ -57,7 +60,7 @@ Once you clone or extract this to the required directory, open a terminal there 
 bash BingDownloaderLinux_86
 ```
 **NOTE: The cron part is still in beta, it is experimental, and may not work. It will be patched in future releases.**
-===================================================================================
+
 
 **ENJOY!!**
 
@@ -71,4 +74,4 @@ If you have any suggestions or thoughts, feel free to comment or email us at Dar
 
 Thanks ;D
 
-===================================================================================
+
