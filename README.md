@@ -1,5 +1,5 @@
 # BingWallpaperDownloader
-A little Java program to automatically download those beautiful Bing wallpapers to your computer ;)
+A little Java program to automatically download those beautiful Bing wallpapers to your computer
 
 ```
 888b.           8    8    8  dP       w      8      w     d8 8888 .d88b. 
